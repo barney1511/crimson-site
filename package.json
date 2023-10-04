@@ -21,6 +21,7 @@
     "@react-three/a11y": "^3.0.0",
     "@react-three/drei": "^9.86.3",
     "@react-three/fiber": "^8.14.4",
+    "@vercel/analytics": "^1.0.2",
     "glsl-random": "^0.0.5",
     "next": "^13.5.4",
     "r3f-perf": "^7.1.2",
